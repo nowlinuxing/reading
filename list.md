@@ -20,6 +20,7 @@
 
 ## リーダブルコード
 
+* WEB+DB PRESS vol.74 コードに効く英語
 * The Art of Readable Code
 * (未)Code Complete, 2nd Edition
 
