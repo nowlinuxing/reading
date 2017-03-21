@@ -2,6 +2,7 @@
 
 ## Ruby
 
+* (未)Effective Ruby: 48 Specific Ways to Write Better Ruby
 * (未)Design Patterns in Ruby
 * (未)Eloquent Ruby
 * (読書中)Metaprogramming Ruby
@@ -23,6 +24,11 @@
 * WEB+DB PRESS vol.74 コードに効く英語
 * The Art of Readable Code
 * (未)Code Complete, 2nd Edition
+* (未)Clean Coder, The: A Code of Conduct for Professional Programmers
+
+## リファクタリング
+
+* (未)Working Effectively with Legacy Code
 
 ## データベース
 
@@ -43,10 +49,16 @@
 
 * (未)エリック・エヴァンスのドメイン駆動設計
 * (未)実践ドメイン駆動設計
+* (未)Domain-Driven Design: Tackling Complexity in the Heart of Software
+* (未)Patterns of Enterprise Application Architecture
+* (未)Implementation Patterns
 * (読書中)Webを支える技術 -HTTP、URI、HTML、そしてREST
 
 ## プログラミング一般
 
+* (未)Code Quality: The Open Source Perspective
+* (未)Code Reading: The Open Source Perspective
+* (未)Clean Code: A Handbook of Agile Software Craftsmanship
 * (未)レガシーコード改善ガイド
 * (読書中)コーディングを支える技術 ~成り立ちから学ぶプログラミング作法
 * (未)100人のプロが選んだソフトウェア開発の名著 君のために選んだ1冊 
